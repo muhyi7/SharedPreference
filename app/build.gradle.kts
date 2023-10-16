@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.polije.sharedpreference"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.polije.sharedpreference"
